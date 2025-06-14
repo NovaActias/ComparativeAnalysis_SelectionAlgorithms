@@ -1,5 +1,4 @@
 # What is this?
-This is the resoult of a uni project for the course "Algorithms and Data Structure" and I decided to post it here.  
-It's devided in two parts:  
-- The LaTeX report  
-- The actual codes for the three algorithms + banchmark
+This is the result of a university project for the course "Algorithms and Data Structure".
+The repository contains the LaTeX project.
+All the codes are in the subdirector "Algorithms"
